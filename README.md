@@ -1,6 +1,6 @@
 # Seminários de TCC
 
-Nesta atividade, o grupo PET-SI convida os professores da UFC Campus de Quixadá para apresentar possíveis temas de pesquisa que podem ser desenvolvidas em Trabalho de Conclusão de Curso (TCC).
+Nesta atividade, o grupo PET-SI convida professores da UFC Campus de Quixadá para apresentar possíveis temas de pesquisa que podem ser desenvolvidos em Trabalho de Conclusão de Curso (TCC).
 
 | Data       | Professor        | Tema                                                                                              | Link                                        |
 |------------|------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
